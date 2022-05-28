@@ -69,13 +69,13 @@ cv2.imshow("Dilated Image",dilationImage)
 ## Output:
 
 ### Display the input Image
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Implementation-of-Erosion-and-Dilation/blob/main/g1.png?raw=true)
 
 ### Display the Eroded Image
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Implementation-of-Erosion-and-Dilation/blob/main/g2.png?raw=true)
 
 ### Display the Dilated Image
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Implementation-of-Erosion-and-Dilation/blob/main/g3.png?raw=true)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
